@@ -1,7 +1,5 @@
 ## CCStyle &  [Butterfly](https://github.com/ccworld1000/CCStyle/tree/master/butterfly)
 
-## 生成了几百张图片 这是最好滴一组，素材选用以前拍摄蝴蝶
-
 ![ccstlye_1.jpg](https://raw.githubusercontent.com/ccworld1000/CCStyle/master/butterfly/ccstlye_1.jpg)
 
 ![ccstlye_2.jpg](https://raw.githubusercontent.com/ccworld1000/CCStyle/master/butterfly/ccstlye_2.jpg)
